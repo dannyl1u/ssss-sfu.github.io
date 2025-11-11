@@ -90,6 +90,17 @@
       }
     },
     {
+      "name": "Meyer Kaur Sarna",
+      "role": "Director of External Relations",
+      "pronoun": "",
+      "description": "Hey everyone!! I’m Meyer and I’m so excited to be your Director of External Relations this year! In my free time, I love discovering cozy cafés and taking time to recharge with a book and music. If you want to chat, feel free to reach out!!",
+      "imgSrc": "/images/about-page/execs-2025/meyer.webp",
+      "socials": {
+        "discord": "mks237",
+        "instagram": "https://instagram.com/meyer_sarna/"
+      }
+    },
+    {
       "name": "Philip Ho",
       "role": "Director of Internal Relations",
       "pronoun": "",
@@ -123,32 +134,8 @@
       }
     },
     {
-      "name": "Oak Soe Si Thu",
-      "role": "Lower Year Representative",
-      "pronoun": "",
-      "description": "I'm Paul, a second-year Software Systems major. I like coding… up to the point where I feel like it's too hard for me 💀",
-      "imgSrc": "/images/about-page/execs-2025/paul.webp",
-      "socials": {
-        "discord": "paul_999",
-        "instagram": "https://instagram.com/paul_in_abyss/",
-        "linkedIn": "https://www.linkedin.com/in/oak-soe-si-thu-46a5a0344/"
-      }
-    },
-    {
-      "name": "Swara Bhate",
-      "role": "First Year Representative",
-      "pronoun": "",
-      "description": "Hi! I'm Swara, one of your first year reps! I enjoy writing and reading in my spare time and I have a toxic relationship with Buldak Ramen. If you have any questions or just want to make a new friend, feel free to hit me up!",
-      "imgSrc": "/images/about-page/execs-2025/swara.webp",
-      "socials": {
-        "discord": "swara_writes",
-        "instagram": "https://instagram.com/swervinswara/",
-        "linkedIn": "https://www.linkedin.com/in/swara-bhate-352938283/"
-      }
-    },
-    {
       "name": "Aleeza Ahmed",
-      "role": "First Year Representative",
+      "role": "Lower Year Representative",
       "pronoun": "",
       "description": "Hihi! I'm Aleeza, one of your first year reps! I love writing & indulging myself in the wonderful world of fantasy. A fun fact about me is that I love playing badminton! Excited to see you guys at events, and feel free to reach out if you ever wanna chat!",
       "imgSrc": "/images/about-page/execs-2025/aleeza.webp",
@@ -156,7 +143,30 @@
         "discord": "xsundropxx",
         "instagram": "https://instagram.com/aleezas.photos/"
       }
+    },
+    {
+      "name": "Manpreet Singh Parmar",
+      "role": "First Year Representative",
+      "pronoun": "",
+      "description": "HELLO!!!🔥 I’m Manpreet and one of your two First-year Representatives :D. I like alot of stuff like: comics, MONEY, manga, board games, magic the gathering, video games, and generally a lot of other stuff. Honestly I just wanna make the first year an enjoyable experience and not die from midterms and finals. If you ever just wanna talk or need someone to listen, feel free to reach out to me 🙂",
+      "imgSrc": "/images/about-page/execs-2025/manpreet.webp",
+      "socials": {
+        "discord": "manpreetking2",
+        "instagram": "https://instagram.com/manpreetking2/"
+      }
+    },
+    {
+      "name": "Courtney Lung",
+      "role": "First Year Representative",
+      "pronoun": "",
+      "description": "Hi! I’m Courtney :) I am so excited to be a first year SSSS representative and to take part in creating super fun community events! I love arts and crafts, dancing, and hanging out with my friends <3 Can’t wait to meet you all!",
+      "imgSrc": "/images/about-page/execs-2025/courtney.webp",
+      "socials": {
+        "discord": "cyborgcourt",
+        "instagram": "https://instagram.com/c.lunggg/"
+      }
     }
+
   ],
   "2024-2025": [
     {
